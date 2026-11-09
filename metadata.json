@@ -1,0 +1,6 @@
+{
+  "name": "AI Là Đào Lửa - Gameshow Phòng Chống Lừa Đảo",
+  "description": "Gameshow tương tác nhận diện lừa đảo trực tuyến 15 cấp độ, 4 quyền trợ giúp, MC ảo dẫn chương trình và Cẩm nang an toàn số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
